@@ -26,7 +26,7 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.19
 	github.com/mitchellh/colorstring v0.0.0-20150917214807-8631ce90f286
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/moby/moby v20.10.17+incompatible
+	github.com/moby/moby v23.0.1+incompatible
 	github.com/mohae/deepcopy v0.0.0-20170603005431-491d3605edfb
 	github.com/nlopes/slack v0.4.0
 	github.com/petergtz/pegomock v2.9.0+incompatible
@@ -142,7 +142,7 @@ require (
 	github.com/m3db/prometheus_common v0.1.0 // indirect
 	github.com/m3db/prometheus_procfs v0.8.1 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
+	github.com/moby/patternmatcher v0.5.0 // indirect
 	github.com/onsi/ginkgo v1.14.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.1 // indirect
-	gotest.tools/v3 v3.3.0 // indirect
 )
